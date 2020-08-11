@@ -16,7 +16,7 @@
 #### 1. Clone 资源文件
 
 
-    $ git clone https://github.com/ScumPetard/Operator-Mono.git
+    $ git clone https://github.com/coderJianXun/Operator-Mono.git
 
 
 
